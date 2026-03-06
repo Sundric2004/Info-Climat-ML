@@ -57,14 +57,9 @@ Nous avons implémenté et comparé plusieurs approches pour répondre aux probl
 
 ### Installation
 1.  **Cloner le dépôt :**
-    ```bash
-    git clone [https://github.com/votre-compte/infoclimat-paris-ml.git](https://github.com/votre-compte/infoclimat-paris-ml.git)
-    cd infoclimat-paris-ml
-    ```
+    
 2.  **Installer les dépendances :**
-    ```bash
-    pip install -r requirements.txt
-    ```
+    
 
 ### Lancement
 * **Pour lancer le Dashboard Interactif :** ```bash
